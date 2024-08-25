@@ -42,8 +42,6 @@ Run `node api.js` in another terminal. The API runs at port `3000` by default.
 
 To view the blockchain: Make a `GET` request to `http://localhost:3000/getChain` to get a copy of the blockchain.
 
-To open the frontend, `cd` into `frontend` and run `npm install` , the frontend will open on some open port by default.
-
 Connect each node with its peers [Option `1` in the CLI] before interacting with the blockchain.
 
 
